@@ -8,7 +8,8 @@
 - **[Ethical Hacking](./Ethical-Hacking.pdf)**  
   Cisco Networking Academy — 27 May 2026
 
-- **[Introduction to Cybersecurity](./introtocybersecurity)
+- **[Introduction to Cybersecurity](./introtocybersecurity.pdf)
+
 **  
   Cisco Networking Academy — 03 May 2026
 
