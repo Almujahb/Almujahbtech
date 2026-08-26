@@ -5,7 +5,8 @@
 - **[Junior Cybersecurity Analyst](./juniorcybersecurity.pdf)**  
   Cisco Networking Academy — 03 June 2026
 
-- **[Ethical Hacking](./Ethical_Hacker_certificate_salauoseni-gmail-com_6b898953-9f04-4b8f-baac-9a415f31374b.pdf)**  
+- **[Ethical Hacking](./ethical-hacking.pdf)
+**  
   Cisco Networking Academy — 27 May 2026
 
 - **[Introduction to Cybersecurity](./introtocybersecurity.pdf)**  
