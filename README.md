@@ -5,8 +5,7 @@
 - **[Junior Cybersecurity Analyst](./juniorcybersecurity.pdf)**  
   Cisco Networking Academy — 03 June 2026
 
-- **[Ethical Hacking](./ethical-hacking.pdf)
-**  
+- [**Ethical Hacking**](https://github.com/Almujahb/Certifications/blob/main/ethical-hacking.pdf)
   Cisco Networking Academy — 27 May 2026
 
 - **[Introduction to Cybersecurity](./introtocybersecurity.pdf)**  
